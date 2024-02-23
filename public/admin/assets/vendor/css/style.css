@@ -1,0 +1,9 @@
+/* .color-rgb::before {
+    content: '';
+    background-image: linear-gradient(360deg, #fe0000, #ff0000);
+  } */
+
+.remove-img:hover {
+  background-color: #49494946 !important;
+  transition: all 0.25s linear ;
+}
